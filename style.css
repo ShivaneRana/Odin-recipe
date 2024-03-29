@@ -1,0 +1,28 @@
+*{
+    background-color:cadetblue;
+
+}
+
+
+h1,.bio{
+    text-align: center;
+    font-family:Verdana,Geneva,Tahoma,sans-serif;
+}
+
+#header1{
+    font-size: 55px;
+    background-color: yellowgreen;
+}
+
+h1{
+    font-size: 55px;
+}
+
+.image{
+    width: 314px;
+    height: 550px;
+}
+
+.bio{
+    font-size:20px;
+}
